@@ -10,4 +10,4 @@ Note ⚠️: Use this format to add your name
 - Joel Olawanle
 - Kehinde Owoputi
 - Adebayo Silas
--Joshua Oluleye
+- Joshua Oluleye
